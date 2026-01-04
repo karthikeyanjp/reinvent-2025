@@ -1,0 +1,1865 @@
+{
+  "videos": {
+    "cltz3OXQtSE": {
+      "title": "AWS re:Invent 2025 - Crowning the Kiro code champions (DVT221)",
+      "url": "https://www.youtube.com/watch?v=cltz3OXQtSE",
+      "tags": [
+        "aws",
+        "ai-ml",
+        "developer-experience",
+        "code-generation",
+        "platform-engineering"
+      ],
+      "keywords": [
+        "Amazon-Kira",
+        "CDK",
+        "spec-driven-development",
+        "agentic-AI",
+        "developer-tools",
+        "CI-CD",
+        "depth-first-search"
+      ],
+      "services": [
+        "Amazon Kira",
+        "AWS CDK",
+        "CloudFormation"
+      ],
+      "relevance": 7,
+      "difficulty": "intermediate",
+      "channel": "AWS Events"
+    },
+    "MfaRnbg217g": {
+      "title": "AWS re:Invent 2025 - Modernizing Java applications with generative AI (DVT210)",
+      "url": "https://www.youtube.com/watch?v=MfaRnbg217g",
+      "tags": [
+        "aws",
+        "modernization",
+        "java",
+        "ai",
+        "cicd",
+        "developer-experience",
+        "enterprise"
+      ],
+      "keywords": [
+        "AWS Transform Custom",
+        "Java transformation agent",
+        "Amazon Q Developer",
+        "Gradle",
+        "Maven",
+        "Spring Boot",
+        "GitOps",
+        "MCP integration",
+        "continual learning",
+        "ADP"
+      ],
+      "services": [
+        "AWS Transform Custom",
+        "Amazon Q Developer",
+        "AWS Batch",
+        "EC2"
+      ],
+      "relevance": 9,
+      "difficulty": "intermediate",
+      "channel": "AWS Events"
+    },
+    "jEJrOMU5nQU": {
+      "title": "AWS re:Invent 2025 - Accelerate Terraform Provider development workflows with Kiro (DVT216)",
+      "url": "https://www.youtube.com/watch?v=jEJrOMU5nQU",
+      "tags": [
+        "aws",
+        "terraform",
+        "ai-agents",
+        "sdlc",
+        "infrastructure-as-code",
+        "developer-experience"
+      ],
+      "keywords": [
+        "Q Developer",
+        "Kira",
+        "HashiCorp",
+        "Terraform provider",
+        "MCP",
+        "Model Context Protocol",
+        "agentic AI",
+        "organic transformation",
+        "SDLC"
+      ],
+      "services": [
+        "AWS Q Developer",
+        "Terraform",
+        "DynamoDB",
+        "S3"
+      ],
+      "relevance": 9,
+      "difficulty": "intermediate",
+      "channel": "AWS Events"
+    },
+    "FAbm2MXYaqc": {
+      "title": "AWS re:Invent 2025 - Designing Agent-Native Dev Teams: Coding Agents in Real Workflows (DVT226)",
+      "url": "https://www.youtube.com/watch?v=FAbm2MXYaqc",
+      "tags": [
+        "ai-agents",
+        "developer-experience",
+        "automation",
+        "cicd",
+        "platform-engineering"
+      ],
+      "keywords": [
+        "curo",
+        "autonomous-agents",
+        "spec-driven-development",
+        "mcp",
+        "bedrock",
+        "sonnet",
+        "ontologies",
+        "graph-orchestration",
+        "sandbox-environments"
+      ],
+      "services": [
+        "AWS Bedrock",
+        "GitHub",
+        "Docker"
+      ],
+      "relevance": 7,
+      "difficulty": "intermediate",
+      "channel": "AWS Events"
+    },
+    "Ap0tXXvyn3k": {
+      "title": "AWS re:Invent 2025-Unlock the power of Kiro steering: Your blueprint for scalable development-DVT340",
+      "url": "https://www.youtube.com/watch?v=Ap0tXXvyn3k",
+      "tags": [
+        "aws",
+        "ai-development",
+        "developer-experience",
+        "documentation",
+        "code-quality"
+      ],
+      "keywords": [
+        "Kuro",
+        "steering-documents",
+        "MCP",
+        "Model-Context-Protocol",
+        "AI-agents",
+        "domain-knowledge",
+        "code-generation",
+        "Kuro-Powers"
+      ],
+      "services": [
+        "AWS Kuro",
+        "AWS Q Developer"
+      ],
+      "relevance": 7,
+      "difficulty": "intermediate",
+      "channel": "AWS Events"
+    },
+    "Kq0Se1nnT3U": {
+      "title": "AWS re:Invent 2025 - Generative AI, agents, MCP, and the future of AI-powered software development",
+      "url": "https://www.youtube.com/watch?v=Kq0Se1nnT3U",
+      "tags": [
+        "aws",
+        "ai-agents",
+        "developer-experience",
+        "sdlc",
+        "automation"
+      ],
+      "keywords": [
+        "Curo CLI",
+        "MCP",
+        "Bedrock Agent Core",
+        "custom agents",
+        "spec-driven development",
+        "agent hooks",
+        "context engineering"
+      ],
+      "services": [
+        "Bedrock Agent Core",
+        "Lambda",
+        "DynamoDB",
+        "KMS",
+        "S3"
+      ],
+      "relevance": 9,
+      "difficulty": "intermediate",
+      "channel": "AWS Events"
+    },
+    "Fer2DKJ2jNA": {
+      "title": "AWS re:Invent 2025 - Building software like never before with Agentic AI (DVT220)",
+      "url": "https://www.youtube.com/watch?v=Fer2DKJ2jNA",
+      "tags": [
+        "aws",
+        "ai",
+        "development-tools",
+        "enterprise-rollout",
+        "productivity"
+      ],
+      "keywords": [
+        "Amazon Kira",
+        "Bedrock Agent Core",
+        "Strands SDK",
+        "agentic AI",
+        "spec-driven development",
+        "agent hooks",
+        "steering files",
+        "MCP servers",
+        "multi-agent orchestration"
+      ],
+      "services": [
+        "Amazon Bedrock",
+        "Amazon Kira",
+        "Bedrock Agent Core",
+        "Amazon Nova",
+        "CloudWatch"
+      ],
+      "relevance": 7,
+      "difficulty": "intermediate",
+      "channel": "AWS Events"
+    },
+    "14se2WpEaCo": {
+      "title": "AWS re:Invent 2025 - [NEW LAUNCH] Kiro powers: Empower agents with specialized expertise (DVT343)",
+      "url": "https://www.youtube.com/watch?v=14se2WpEaCo",
+      "tags": [
+        "ai-agents",
+        "developer-experience",
+        "platform-engineering",
+        "automation",
+        "integration"
+      ],
+      "keywords": [
+        "Kiro",
+        "MCP-servers",
+        "steering-files",
+        "agent-hooks",
+        "Neon",
+        "Stripe",
+        "Netlify",
+        "Datadog",
+        "OAuth",
+        "EAR-syntax"
+      ],
+      "services": [],
+      "relevance": 7,
+      "difficulty": "intermediate",
+      "channel": "AWS Events"
+    },
+    "XpgcpsGKIio": {
+      "title": "AWS re:Invent 2025 - Accelerate development with Kiro's new agentic AI capabilities (DVT228)",
+      "url": "https://www.youtube.com/watch?v=XpgcpsGKIio",
+      "tags": [
+        "ai-development",
+        "developer-experience",
+        "tooling",
+        "automation"
+      ],
+      "keywords": [
+        "kira-powers",
+        "mcp",
+        "model-context-protocol",
+        "ai-agents",
+        "steering-files",
+        "figma",
+        "postman",
+        "supabase",
+        "development-workflows"
+      ],
+      "services": [],
+      "relevance": 7,
+      "difficulty": "intermediate",
+      "channel": "AWS Events"
+    },
+    "XxAaidwyNNM": {
+      "title": "AWS re:Invent 2025 - Code completion to agents: The evolution of development (DVT405)",
+      "url": "https://www.youtube.com/watch?v=XxAaidwyNNM",
+      "tags": [
+        "aws",
+        "ai-agents",
+        "developer-experience",
+        "architecture",
+        "observability"
+      ],
+      "keywords": [
+        "CodeWhisperer",
+        "SWBench",
+        "PolyBench",
+        "Amazon Bedrock",
+        "LangGraph",
+        "multi-agent",
+        "code-execution",
+        "sandbox",
+        "RAG"
+      ],
+      "services": [
+        "Amazon Bedrock",
+        "AWS CodeWhisperer"
+      ],
+      "relevance": 7,
+      "difficulty": "advanced",
+      "channel": "AWS Events"
+    },
+    "s4sRgzNBlbU": {
+      "title": "AWS re:Invent 2025 - Extend Kiro with MCP support for richer context (DVT213)",
+      "url": "https://www.youtube.com/watch?v=s4sRgzNBlbU",
+      "tags": [
+        "ai-agents",
+        "developer-tools",
+        "integration-patterns",
+        "context-management",
+        "sdlc-automation"
+      ],
+      "keywords": [
+        "Model-Context-Protocol",
+        "MCP",
+        "Ciro",
+        "context-engineering",
+        "agentic-workflows",
+        "RAG-limitations",
+        "feedback-loops",
+        "OAuth-authentication",
+        "steering-files",
+        "powers-feature"
+      ],
+      "services": [
+        "GitHub",
+        "Figma",
+        "AWS-Nova",
+        "Slack",
+        "Jira"
+      ],
+      "relevance": 7,
+      "difficulty": "intermediate",
+      "channel": "AWS Events"
+    },
+    "S8G0qRuWweA": {
+      "title": "AWS re:Invent 2025 - Kiro: Your agentic IDE for spec-driven development (DVT209)",
+      "url": "https://www.youtube.com/watch?v=S8G0qRuWweA",
+      "tags": [
+        "aws",
+        "ai",
+        "developer-tools",
+        "enterprise-adoption",
+        "agile",
+        "productivity"
+      ],
+      "keywords": [
+        "Kiro",
+        "agentic-IDE",
+        "MCP-servers",
+        "Q-Developer",
+        "spec-driven-development",
+        "vibe-coding",
+        "autonomous-agents",
+        "steering-files",
+        "Delta-Airlines",
+        "Bedrock",
+        "Strands-SDK"
+      ],
+      "services": [
+        "Amazon Q Developer",
+        "Amazon Bedrock",
+        "AWS CDK",
+        "Amazon ECS",
+        "AWS Lambda"
+      ],
+      "relevance": 7,
+      "difficulty": "intermediate",
+      "channel": "AWS Events"
+    },
+    "LvvSs0qDmM8": {
+      "title": "AWS re:Invent 2025 - Accelerate .NET application modernization with generative AI (DVT211)",
+      "url": "https://www.youtube.com/watch?v=LvvSs0qDmM8",
+      "tags": [
+        "aws",
+        "modernization",
+        "dotnet",
+        "generative-ai",
+        "migration",
+        "cost-optimization"
+      ],
+      "keywords": [
+        "AWS Transform for .NET",
+        "Kirao",
+        "Amazon Q Developer",
+        "NET Framework",
+        "NET Core",
+        "Linux migration",
+        "Thompson Reuters",
+        "asynchronous transformation",
+        "Amazon Bedrock"
+      ],
+      "services": [
+        "AWS Transform for .NET",
+        "Amazon Bedrock",
+        "Amazon Q Developer",
+        "Kirao",
+        "S3",
+        "Code Connections"
+      ],
+      "relevance": 9,
+      "difficulty": "intermediate",
+      "channel": "AWS Events"
+    },
+    "1HNUH6j5t4A": {
+      "title": "AWS re:Invent 2025 - Introducing AI driven development lifecycle (AI-DLC) (DVT214)",
+      "url": "https://www.youtube.com/watch?v=1HNUH6j5t4A",
+      "tags": [
+        "ai",
+        "development-lifecycle",
+        "productivity",
+        "collaboration",
+        "aws",
+        "devops"
+      ],
+      "keywords": [
+        "AIDLC",
+        "Amazon Q Developer",
+        "Codewhisperer",
+        "mob programming",
+        "context management",
+        "semantic mapping",
+        "steering files"
+      ],
+      "services": [
+        "Amazon Q Developer",
+        "AWS Codewhisperer"
+      ],
+      "relevance": 9,
+      "difficulty": "intermediate",
+      "channel": "AWS Events"
+    },
+    "p0BLnE9CJcA": {
+      "title": "AWS re:Invent 2025 - Spec-driven development: Shaping the next generation of AI software (DVT212)",
+      "url": "https://www.youtube.com/watch?v=p0BLnE9CJcA",
+      "tags": [
+        "ai-development",
+        "developer-experience",
+        "testing",
+        "requirements-engineering",
+        "code-generation"
+      ],
+      "keywords": [
+        "Kira",
+        "spec-driven-development",
+        "property-based-testing",
+        "EARS-syntax",
+        "MCP",
+        "AI-coding",
+        "requirements-traceability"
+      ],
+      "services": [
+        "AWS Amplify",
+        "AWS Cognito"
+      ],
+      "relevance": 7,
+      "difficulty": "intermediate",
+      "channel": "AWS Events"
+    },
+    "50hKzkjRErE": {
+      "title": "AWS re:Invent 2025 - Scaling Globally: Priority Pass's Journey with AWS Amplify (DVT319)",
+      "url": "https://www.youtube.com/watch?v=50hKzkjRErE",
+      "tags": [
+        "aws",
+        "frontend",
+        "cicd",
+        "cost-optimization",
+        "migration"
+      ],
+      "keywords": [
+        "AWS Amplify",
+        "Next.js",
+        "CloudFront",
+        "ephemeral environments",
+        "NX monorepo",
+        "Terraform",
+        "headless CMS",
+        "GitHub Actions"
+      ],
+      "services": [
+        "AWS Amplify",
+        "CloudFront",
+        "Lambda@Edge",
+        "EC2",
+        "GitHub Actions"
+      ],
+      "relevance": 7,
+      "difficulty": "intermediate",
+      "channel": "AWS Events"
+    },
+    "bATt9ZtXSNw": {
+      "title": "AWS re:Invent 2025 - Secure Amazon ECS observability with CDK and Grafana (DEV338)",
+      "url": "https://www.youtube.com/watch?v=bATt9ZtXSNw",
+      "tags": [
+        "observability",
+        "aws",
+        "ecs",
+        "security",
+        "cdk",
+        "opentelemetry"
+      ],
+      "keywords": [
+        "ADOT",
+        "OpenTelemetry",
+        "ECS",
+        "Grafana",
+        "Loki",
+        "X-Ray",
+        "Application Signals",
+        "ClientVPN",
+        "CDK",
+        "GitHub OIDC",
+        "Prometheus",
+        "sidecars"
+      ],
+      "services": [
+        "ECS",
+        "X-Ray",
+        "CloudWatch",
+        "Prometheus",
+        "DynamoDB",
+        "SQS",
+        "EFS",
+        "S3",
+        "Route53",
+        "ClientVPN",
+        "CDK"
+      ],
+      "relevance": 9,
+      "difficulty": "intermediate",
+      "channel": "AWS Events"
+    },
+    "eLyFTbVtY64": {
+      "title": "AWS re:Invent 2025 - Accelerate multi-step SDLC with Kiro (DVT321)",
+      "url": "https://www.youtube.com/watch?v=eLyFTbVtY64",
+      "tags": [
+        "aws",
+        "ai-agents",
+        "sdlc",
+        "developer-experience",
+        "enterprise-development"
+      ],
+      "keywords": [
+        "AIDLC",
+        "Kiro-CLI",
+        "MCP",
+        "custom-agents",
+        "context-window",
+        "requirements-gathering",
+        "CodeWhisperer",
+        "Mermaid-diagrams",
+        "cross-functional-teams"
+      ],
+      "services": [
+        "AWS Bedrock",
+        "AWS Amplify",
+        "CodeWhisperer",
+        "Kiro CLI"
+      ],
+      "relevance": 7,
+      "difficulty": "intermediate",
+      "channel": "AWS Events"
+    },
+    "Kjrh4f1I6Ag": {
+      "title": "AWS re:Invent 2025 - What\u2019s new in fullstack AWS app development (DVT204)",
+      "url": "https://www.youtube.com/watch?v=Kjrh4f1I6Ag",
+      "tags": [
+        "aws",
+        "ai-development",
+        "fullstack",
+        "infrastructure-as-code",
+        "security"
+      ],
+      "keywords": [
+        "AWS Amplify",
+        "CDK",
+        "Model Context Protocol",
+        "MCP",
+        "Cursor IDE",
+        "passkey authentication",
+        "storage browser",
+        "WAF integration",
+        "Cognito",
+        "S3",
+        "DynamoDB"
+      ],
+      "services": [
+        "AWS Amplify",
+        "AWS CDK",
+        "Amazon Cognito",
+        "Amazon S3",
+        "AWS WAF",
+        "Amazon DynamoDB",
+        "AWS Lambda",
+        "CloudFront"
+      ],
+      "relevance": 9,
+      "difficulty": "intermediate",
+      "channel": "AWS Events"
+    },
+    "Fgvnj9fbxeA": {
+      "title": "AWS re:Invent 2025 - Developer Experience Economics: Moving Past Productivity Metrics (DVT207)",
+      "url": "https://www.youtube.com/watch?v=Fgvnj9fbxeA",
+      "tags": [
+        "developer-experience",
+        "metrics",
+        "ai-tooling",
+        "platform-engineering",
+        "devops",
+        "productivity"
+      ],
+      "keywords": [
+        "Cost to Serve Software",
+        "ASBX",
+        "Amazon Q Developer",
+        "Kira",
+        "Amazon Bedrock",
+        "MCP",
+        "developer productivity",
+        "SDLC",
+        "AI agents",
+        "code transformation"
+      ],
+      "services": [
+        "Amazon Bedrock",
+        "Amazon Q Developer",
+        "Amazon Q CLI",
+        "Amazon Q Business"
+      ],
+      "relevance": 9,
+      "difficulty": "advanced",
+      "channel": "AWS Events"
+    },
+    "l-mjftGWueA": {
+      "title": "AWS re:Invent 2025 - Measuring AI Impact with Amazon Q Developer and Jellyfish (DVT219)",
+      "url": "https://www.youtube.com/watch?v=l-mjftGWueA",
+      "tags": [
+        "aws",
+        "ai-ml",
+        "developer-experience",
+        "observability",
+        "platform-engineering",
+        "productivity"
+      ],
+      "keywords": [
+        "Amazon-Q-Developer",
+        "Codewhisperer",
+        "DORA-metrics",
+        "SPACE-framework",
+        "cost-to-serve",
+        "Jellyfish",
+        "developer-productivity",
+        "AI-impact-measurement",
+        "prompt-engineering",
+        "context-engineering"
+      ],
+      "services": [
+        "Amazon Q Developer",
+        "AWS Codewhisperer",
+        "AWS SSO",
+        "AWS Lambda",
+        "QuickSight",
+        "GitHub",
+        "Jira"
+      ],
+      "relevance": 9,
+      "difficulty": "intermediate",
+      "channel": "AWS Events"
+    },
+    "_4hvWns9ICY": {
+      "title": "AWS re:Invent 2025 - AWS infrastructure as code: A year in review (DVT203)",
+      "url": "https://www.youtube.com/watch?v=_4hvWns9ICY",
+      "tags": [
+        "aws",
+        "infrastructure-as-code",
+        "cloudformation",
+        "cdk",
+        "governance",
+        "security",
+        "developer-experience"
+      ],
+      "keywords": [
+        "CloudFormation",
+        "CDK",
+        "drift-aware-changesets",
+        "pre-deployment-validation",
+        "CDK-refactor",
+        "mixins",
+        "hooks",
+        "stack-sets",
+        "MCP-server",
+        "constructs"
+      ],
+      "services": [
+        "AWS CloudFormation",
+        "AWS CDK",
+        "AWS Lambda",
+        "Amazon S3",
+        "AWS KMS",
+        "CloudWatch",
+        "AWS Organizations",
+        "AWS Controls Catalog"
+      ],
+      "relevance": 9,
+      "difficulty": "intermediate",
+      "channel": "AWS Events"
+    },
+    "qB7AobjQqsU": {
+      "title": "AWS re:Invent 2025 - Epic journey: Navigating the AI-powered SDLC from backlog to production(DVT208)",
+      "url": "https://www.youtube.com/watch?v=qB7AobjQqsU",
+      "tags": [
+        "aws",
+        "ai-native-development",
+        "developer-experience",
+        "enterprise-transformation",
+        "sdlc"
+      ],
+      "keywords": [
+        "Kura-CLI",
+        "MCP-servers",
+        "AI-native-development",
+        "spec-driven-development",
+        "custom-agents",
+        "steering-files",
+        "system-knowledge-plane",
+        "agent-hooks"
+      ],
+      "services": [
+        "Kura CLI",
+        "Model Context Protocol",
+        "AWS CodeWhisperer"
+      ],
+      "relevance": 9,
+      "difficulty": "intermediate",
+      "channel": "AWS Events"
+    },
+    "rm9gPOlUxNY": {
+      "title": "AWS re:Invent 2025 - Continuous integration and continuous delivery (CI/CD) for AWS (DVT202)",
+      "url": "https://www.youtube.com/watch?v=rm9gPOlUxNY",
+      "tags": [
+        "aws",
+        "cicd",
+        "ai-automation",
+        "feature-flags",
+        "infrastructure-as-code",
+        "devops"
+      ],
+      "keywords": [
+        "AWS-App-Config",
+        "MCP-server",
+        "Agent-SOPs",
+        "Kira-IDE",
+        "CDK",
+        "CloudFormation",
+        "CodePipeline",
+        "feature-flags",
+        "trunk-based-development",
+        "gradual-rollout"
+      ],
+      "services": [
+        "AWS App Config",
+        "Parameter Store",
+        "CodePipeline",
+        "CodeBuild",
+        "CloudFormation",
+        "CDK",
+        "Lambda",
+        "CloudFront",
+        "S3",
+        "API Gateway",
+        "CloudWatch"
+      ],
+      "relevance": 9,
+      "difficulty": "intermediate",
+      "channel": "AWS Events"
+    },
+    "VRw3g-v4B00": {
+      "title": "AWS re:Invent 2025 - From concept to production: Build with spec-driven development & Kiro  (DVT320)",
+      "url": "https://www.youtube.com/watch?v=VRw3g-v4B00",
+      "tags": [
+        "aws",
+        "ai-development",
+        "developer-experience",
+        "enterprise-tools",
+        "code-generation"
+      ],
+      "keywords": [
+        "Kira",
+        "spec-driven-development",
+        "MCP-servers",
+        "agent-hooks",
+        "steering-documents",
+        "Claude",
+        "VS-Code",
+        "requirements-generation"
+      ],
+      "services": [
+        "AWS Kira",
+        "Q Developer"
+      ],
+      "relevance": 7,
+      "difficulty": "intermediate",
+      "channel": "AWS Events"
+    }
+  },
+  "tags": {
+    "aws": [
+      "cltz3OXQtSE",
+      "MfaRnbg217g",
+      "jEJrOMU5nQU",
+      "Ap0tXXvyn3k",
+      "Kq0Se1nnT3U",
+      "Fer2DKJ2jNA",
+      "XxAaidwyNNM",
+      "S8G0qRuWweA",
+      "LvvSs0qDmM8",
+      "1HNUH6j5t4A",
+      "50hKzkjRErE",
+      "bATt9ZtXSNw",
+      "eLyFTbVtY64",
+      "Kjrh4f1I6Ag",
+      "l-mjftGWueA",
+      "_4hvWns9ICY",
+      "qB7AobjQqsU",
+      "rm9gPOlUxNY",
+      "VRw3g-v4B00"
+    ],
+    "ai-ml": [
+      "cltz3OXQtSE",
+      "l-mjftGWueA"
+    ],
+    "developer-experience": [
+      "cltz3OXQtSE",
+      "MfaRnbg217g",
+      "jEJrOMU5nQU",
+      "FAbm2MXYaqc",
+      "Ap0tXXvyn3k",
+      "Kq0Se1nnT3U",
+      "14se2WpEaCo",
+      "XpgcpsGKIio",
+      "XxAaidwyNNM",
+      "p0BLnE9CJcA",
+      "eLyFTbVtY64",
+      "Fgvnj9fbxeA",
+      "l-mjftGWueA",
+      "_4hvWns9ICY",
+      "qB7AobjQqsU",
+      "VRw3g-v4B00"
+    ],
+    "code-generation": [
+      "cltz3OXQtSE",
+      "p0BLnE9CJcA",
+      "VRw3g-v4B00"
+    ],
+    "platform-engineering": [
+      "cltz3OXQtSE",
+      "FAbm2MXYaqc",
+      "14se2WpEaCo",
+      "Fgvnj9fbxeA",
+      "l-mjftGWueA"
+    ],
+    "modernization": [
+      "MfaRnbg217g",
+      "LvvSs0qDmM8"
+    ],
+    "java": [
+      "MfaRnbg217g"
+    ],
+    "ai": [
+      "MfaRnbg217g",
+      "Fer2DKJ2jNA",
+      "S8G0qRuWweA",
+      "1HNUH6j5t4A"
+    ],
+    "cicd": [
+      "MfaRnbg217g",
+      "FAbm2MXYaqc",
+      "50hKzkjRErE",
+      "rm9gPOlUxNY"
+    ],
+    "enterprise": [
+      "MfaRnbg217g"
+    ],
+    "terraform": [
+      "jEJrOMU5nQU"
+    ],
+    "ai-agents": [
+      "jEJrOMU5nQU",
+      "FAbm2MXYaqc",
+      "Kq0Se1nnT3U",
+      "14se2WpEaCo",
+      "XxAaidwyNNM",
+      "s4sRgzNBlbU",
+      "eLyFTbVtY64"
+    ],
+    "sdlc": [
+      "jEJrOMU5nQU",
+      "Kq0Se1nnT3U",
+      "eLyFTbVtY64",
+      "qB7AobjQqsU"
+    ],
+    "infrastructure-as-code": [
+      "jEJrOMU5nQU",
+      "Kjrh4f1I6Ag",
+      "_4hvWns9ICY",
+      "rm9gPOlUxNY"
+    ],
+    "automation": [
+      "FAbm2MXYaqc",
+      "Kq0Se1nnT3U",
+      "14se2WpEaCo",
+      "XpgcpsGKIio"
+    ],
+    "ai-development": [
+      "Ap0tXXvyn3k",
+      "XpgcpsGKIio",
+      "p0BLnE9CJcA",
+      "Kjrh4f1I6Ag",
+      "VRw3g-v4B00"
+    ],
+    "documentation": [
+      "Ap0tXXvyn3k"
+    ],
+    "code-quality": [
+      "Ap0tXXvyn3k"
+    ],
+    "development-tools": [
+      "Fer2DKJ2jNA"
+    ],
+    "enterprise-rollout": [
+      "Fer2DKJ2jNA"
+    ],
+    "productivity": [
+      "Fer2DKJ2jNA",
+      "S8G0qRuWweA",
+      "1HNUH6j5t4A",
+      "Fgvnj9fbxeA",
+      "l-mjftGWueA"
+    ],
+    "integration": [
+      "14se2WpEaCo"
+    ],
+    "tooling": [
+      "XpgcpsGKIio"
+    ],
+    "architecture": [
+      "XxAaidwyNNM"
+    ],
+    "observability": [
+      "XxAaidwyNNM",
+      "bATt9ZtXSNw",
+      "l-mjftGWueA"
+    ],
+    "developer-tools": [
+      "s4sRgzNBlbU",
+      "S8G0qRuWweA"
+    ],
+    "integration-patterns": [
+      "s4sRgzNBlbU"
+    ],
+    "context-management": [
+      "s4sRgzNBlbU"
+    ],
+    "sdlc-automation": [
+      "s4sRgzNBlbU"
+    ],
+    "enterprise-adoption": [
+      "S8G0qRuWweA"
+    ],
+    "agile": [
+      "S8G0qRuWweA"
+    ],
+    "dotnet": [
+      "LvvSs0qDmM8"
+    ],
+    "generative-ai": [
+      "LvvSs0qDmM8"
+    ],
+    "migration": [
+      "LvvSs0qDmM8",
+      "50hKzkjRErE"
+    ],
+    "cost-optimization": [
+      "LvvSs0qDmM8",
+      "50hKzkjRErE"
+    ],
+    "development-lifecycle": [
+      "1HNUH6j5t4A"
+    ],
+    "collaboration": [
+      "1HNUH6j5t4A"
+    ],
+    "devops": [
+      "1HNUH6j5t4A",
+      "Fgvnj9fbxeA",
+      "rm9gPOlUxNY"
+    ],
+    "testing": [
+      "p0BLnE9CJcA"
+    ],
+    "requirements-engineering": [
+      "p0BLnE9CJcA"
+    ],
+    "frontend": [
+      "50hKzkjRErE"
+    ],
+    "ecs": [
+      "bATt9ZtXSNw"
+    ],
+    "security": [
+      "bATt9ZtXSNw",
+      "Kjrh4f1I6Ag",
+      "_4hvWns9ICY"
+    ],
+    "cdk": [
+      "bATt9ZtXSNw",
+      "_4hvWns9ICY"
+    ],
+    "opentelemetry": [
+      "bATt9ZtXSNw"
+    ],
+    "enterprise-development": [
+      "eLyFTbVtY64"
+    ],
+    "fullstack": [
+      "Kjrh4f1I6Ag"
+    ],
+    "metrics": [
+      "Fgvnj9fbxeA"
+    ],
+    "ai-tooling": [
+      "Fgvnj9fbxeA"
+    ],
+    "cloudformation": [
+      "_4hvWns9ICY"
+    ],
+    "governance": [
+      "_4hvWns9ICY"
+    ],
+    "ai-native-development": [
+      "qB7AobjQqsU"
+    ],
+    "enterprise-transformation": [
+      "qB7AobjQqsU"
+    ],
+    "ai-automation": [
+      "rm9gPOlUxNY"
+    ],
+    "feature-flags": [
+      "rm9gPOlUxNY"
+    ],
+    "enterprise-tools": [
+      "VRw3g-v4B00"
+    ]
+  },
+  "keywords": {
+    "amazon-kira": [
+      "cltz3OXQtSE"
+    ],
+    "cdk": [
+      "cltz3OXQtSE",
+      "bATt9ZtXSNw",
+      "Kjrh4f1I6Ag",
+      "_4hvWns9ICY",
+      "rm9gPOlUxNY"
+    ],
+    "spec-driven-development": [
+      "cltz3OXQtSE",
+      "FAbm2MXYaqc",
+      "S8G0qRuWweA",
+      "p0BLnE9CJcA",
+      "qB7AobjQqsU",
+      "VRw3g-v4B00"
+    ],
+    "agentic-ai": [
+      "cltz3OXQtSE"
+    ],
+    "developer-tools": [
+      "cltz3OXQtSE"
+    ],
+    "ci-cd": [
+      "cltz3OXQtSE"
+    ],
+    "depth-first-search": [
+      "cltz3OXQtSE"
+    ],
+    "aws transform custom": [
+      "MfaRnbg217g"
+    ],
+    "java transformation agent": [
+      "MfaRnbg217g"
+    ],
+    "amazon q developer": [
+      "MfaRnbg217g",
+      "LvvSs0qDmM8",
+      "1HNUH6j5t4A",
+      "Fgvnj9fbxeA"
+    ],
+    "gradle": [
+      "MfaRnbg217g"
+    ],
+    "maven": [
+      "MfaRnbg217g"
+    ],
+    "spring boot": [
+      "MfaRnbg217g"
+    ],
+    "gitops": [
+      "MfaRnbg217g"
+    ],
+    "mcp integration": [
+      "MfaRnbg217g"
+    ],
+    "continual learning": [
+      "MfaRnbg217g"
+    ],
+    "adp": [
+      "MfaRnbg217g"
+    ],
+    "q developer": [
+      "jEJrOMU5nQU"
+    ],
+    "kira": [
+      "jEJrOMU5nQU",
+      "p0BLnE9CJcA",
+      "Fgvnj9fbxeA",
+      "VRw3g-v4B00"
+    ],
+    "hashicorp": [
+      "jEJrOMU5nQU"
+    ],
+    "terraform provider": [
+      "jEJrOMU5nQU"
+    ],
+    "mcp": [
+      "jEJrOMU5nQU",
+      "FAbm2MXYaqc",
+      "Ap0tXXvyn3k",
+      "Kq0Se1nnT3U",
+      "XpgcpsGKIio",
+      "s4sRgzNBlbU",
+      "p0BLnE9CJcA",
+      "eLyFTbVtY64",
+      "Kjrh4f1I6Ag",
+      "Fgvnj9fbxeA"
+    ],
+    "model context protocol": [
+      "jEJrOMU5nQU",
+      "Kjrh4f1I6Ag"
+    ],
+    "agentic ai": [
+      "jEJrOMU5nQU",
+      "Fer2DKJ2jNA"
+    ],
+    "organic transformation": [
+      "jEJrOMU5nQU"
+    ],
+    "sdlc": [
+      "jEJrOMU5nQU",
+      "Fgvnj9fbxeA"
+    ],
+    "curo": [
+      "FAbm2MXYaqc"
+    ],
+    "autonomous-agents": [
+      "FAbm2MXYaqc",
+      "S8G0qRuWweA"
+    ],
+    "bedrock": [
+      "FAbm2MXYaqc",
+      "S8G0qRuWweA"
+    ],
+    "sonnet": [
+      "FAbm2MXYaqc"
+    ],
+    "ontologies": [
+      "FAbm2MXYaqc"
+    ],
+    "graph-orchestration": [
+      "FAbm2MXYaqc"
+    ],
+    "sandbox-environments": [
+      "FAbm2MXYaqc"
+    ],
+    "kuro": [
+      "Ap0tXXvyn3k"
+    ],
+    "steering-documents": [
+      "Ap0tXXvyn3k",
+      "VRw3g-v4B00"
+    ],
+    "model-context-protocol": [
+      "Ap0tXXvyn3k",
+      "XpgcpsGKIio",
+      "s4sRgzNBlbU"
+    ],
+    "ai-agents": [
+      "Ap0tXXvyn3k",
+      "XpgcpsGKIio"
+    ],
+    "domain-knowledge": [
+      "Ap0tXXvyn3k"
+    ],
+    "code-generation": [
+      "Ap0tXXvyn3k"
+    ],
+    "kuro-powers": [
+      "Ap0tXXvyn3k"
+    ],
+    "curo cli": [
+      "Kq0Se1nnT3U"
+    ],
+    "bedrock agent core": [
+      "Kq0Se1nnT3U",
+      "Fer2DKJ2jNA"
+    ],
+    "custom agents": [
+      "Kq0Se1nnT3U"
+    ],
+    "spec-driven development": [
+      "Kq0Se1nnT3U",
+      "Fer2DKJ2jNA"
+    ],
+    "agent hooks": [
+      "Kq0Se1nnT3U",
+      "Fer2DKJ2jNA"
+    ],
+    "context engineering": [
+      "Kq0Se1nnT3U"
+    ],
+    "amazon kira": [
+      "Fer2DKJ2jNA"
+    ],
+    "strands sdk": [
+      "Fer2DKJ2jNA"
+    ],
+    "steering files": [
+      "Fer2DKJ2jNA",
+      "1HNUH6j5t4A"
+    ],
+    "mcp servers": [
+      "Fer2DKJ2jNA"
+    ],
+    "multi-agent orchestration": [
+      "Fer2DKJ2jNA"
+    ],
+    "kiro": [
+      "14se2WpEaCo",
+      "S8G0qRuWweA"
+    ],
+    "mcp-servers": [
+      "14se2WpEaCo",
+      "S8G0qRuWweA",
+      "qB7AobjQqsU",
+      "VRw3g-v4B00"
+    ],
+    "steering-files": [
+      "14se2WpEaCo",
+      "XpgcpsGKIio",
+      "s4sRgzNBlbU",
+      "S8G0qRuWweA",
+      "qB7AobjQqsU"
+    ],
+    "agent-hooks": [
+      "14se2WpEaCo",
+      "qB7AobjQqsU",
+      "VRw3g-v4B00"
+    ],
+    "neon": [
+      "14se2WpEaCo"
+    ],
+    "stripe": [
+      "14se2WpEaCo"
+    ],
+    "netlify": [
+      "14se2WpEaCo"
+    ],
+    "datadog": [
+      "14se2WpEaCo"
+    ],
+    "oauth": [
+      "14se2WpEaCo"
+    ],
+    "ear-syntax": [
+      "14se2WpEaCo"
+    ],
+    "kira-powers": [
+      "XpgcpsGKIio"
+    ],
+    "figma": [
+      "XpgcpsGKIio"
+    ],
+    "postman": [
+      "XpgcpsGKIio"
+    ],
+    "supabase": [
+      "XpgcpsGKIio"
+    ],
+    "development-workflows": [
+      "XpgcpsGKIio"
+    ],
+    "codewhisperer": [
+      "XxAaidwyNNM",
+      "1HNUH6j5t4A",
+      "eLyFTbVtY64",
+      "l-mjftGWueA"
+    ],
+    "swbench": [
+      "XxAaidwyNNM"
+    ],
+    "polybench": [
+      "XxAaidwyNNM"
+    ],
+    "amazon bedrock": [
+      "XxAaidwyNNM",
+      "LvvSs0qDmM8",
+      "Fgvnj9fbxeA"
+    ],
+    "langgraph": [
+      "XxAaidwyNNM"
+    ],
+    "multi-agent": [
+      "XxAaidwyNNM"
+    ],
+    "code-execution": [
+      "XxAaidwyNNM"
+    ],
+    "sandbox": [
+      "XxAaidwyNNM"
+    ],
+    "rag": [
+      "XxAaidwyNNM"
+    ],
+    "ciro": [
+      "s4sRgzNBlbU"
+    ],
+    "context-engineering": [
+      "s4sRgzNBlbU",
+      "l-mjftGWueA"
+    ],
+    "agentic-workflows": [
+      "s4sRgzNBlbU"
+    ],
+    "rag-limitations": [
+      "s4sRgzNBlbU"
+    ],
+    "feedback-loops": [
+      "s4sRgzNBlbU"
+    ],
+    "oauth-authentication": [
+      "s4sRgzNBlbU"
+    ],
+    "powers-feature": [
+      "s4sRgzNBlbU"
+    ],
+    "agentic-ide": [
+      "S8G0qRuWweA"
+    ],
+    "q-developer": [
+      "S8G0qRuWweA"
+    ],
+    "vibe-coding": [
+      "S8G0qRuWweA"
+    ],
+    "delta-airlines": [
+      "S8G0qRuWweA"
+    ],
+    "strands-sdk": [
+      "S8G0qRuWweA"
+    ],
+    "aws transform for .net": [
+      "LvvSs0qDmM8"
+    ],
+    "kirao": [
+      "LvvSs0qDmM8"
+    ],
+    "net framework": [
+      "LvvSs0qDmM8"
+    ],
+    "net core": [
+      "LvvSs0qDmM8"
+    ],
+    "linux migration": [
+      "LvvSs0qDmM8"
+    ],
+    "thompson reuters": [
+      "LvvSs0qDmM8"
+    ],
+    "asynchronous transformation": [
+      "LvvSs0qDmM8"
+    ],
+    "aidlc": [
+      "1HNUH6j5t4A",
+      "eLyFTbVtY64"
+    ],
+    "mob programming": [
+      "1HNUH6j5t4A"
+    ],
+    "context management": [
+      "1HNUH6j5t4A"
+    ],
+    "semantic mapping": [
+      "1HNUH6j5t4A"
+    ],
+    "property-based-testing": [
+      "p0BLnE9CJcA"
+    ],
+    "ears-syntax": [
+      "p0BLnE9CJcA"
+    ],
+    "ai-coding": [
+      "p0BLnE9CJcA"
+    ],
+    "requirements-traceability": [
+      "p0BLnE9CJcA"
+    ],
+    "aws amplify": [
+      "50hKzkjRErE",
+      "Kjrh4f1I6Ag"
+    ],
+    "next.js": [
+      "50hKzkjRErE"
+    ],
+    "cloudfront": [
+      "50hKzkjRErE"
+    ],
+    "ephemeral environments": [
+      "50hKzkjRErE"
+    ],
+    "nx monorepo": [
+      "50hKzkjRErE"
+    ],
+    "terraform": [
+      "50hKzkjRErE"
+    ],
+    "headless cms": [
+      "50hKzkjRErE"
+    ],
+    "github actions": [
+      "50hKzkjRErE"
+    ],
+    "adot": [
+      "bATt9ZtXSNw"
+    ],
+    "opentelemetry": [
+      "bATt9ZtXSNw"
+    ],
+    "ecs": [
+      "bATt9ZtXSNw"
+    ],
+    "grafana": [
+      "bATt9ZtXSNw"
+    ],
+    "loki": [
+      "bATt9ZtXSNw"
+    ],
+    "x-ray": [
+      "bATt9ZtXSNw"
+    ],
+    "application signals": [
+      "bATt9ZtXSNw"
+    ],
+    "clientvpn": [
+      "bATt9ZtXSNw"
+    ],
+    "github oidc": [
+      "bATt9ZtXSNw"
+    ],
+    "prometheus": [
+      "bATt9ZtXSNw"
+    ],
+    "sidecars": [
+      "bATt9ZtXSNw"
+    ],
+    "kiro-cli": [
+      "eLyFTbVtY64"
+    ],
+    "custom-agents": [
+      "eLyFTbVtY64",
+      "qB7AobjQqsU"
+    ],
+    "context-window": [
+      "eLyFTbVtY64"
+    ],
+    "requirements-gathering": [
+      "eLyFTbVtY64"
+    ],
+    "mermaid-diagrams": [
+      "eLyFTbVtY64"
+    ],
+    "cross-functional-teams": [
+      "eLyFTbVtY64"
+    ],
+    "cursor ide": [
+      "Kjrh4f1I6Ag"
+    ],
+    "passkey authentication": [
+      "Kjrh4f1I6Ag"
+    ],
+    "storage browser": [
+      "Kjrh4f1I6Ag"
+    ],
+    "waf integration": [
+      "Kjrh4f1I6Ag"
+    ],
+    "cognito": [
+      "Kjrh4f1I6Ag"
+    ],
+    "s3": [
+      "Kjrh4f1I6Ag"
+    ],
+    "dynamodb": [
+      "Kjrh4f1I6Ag"
+    ],
+    "cost to serve software": [
+      "Fgvnj9fbxeA"
+    ],
+    "asbx": [
+      "Fgvnj9fbxeA"
+    ],
+    "developer productivity": [
+      "Fgvnj9fbxeA"
+    ],
+    "ai agents": [
+      "Fgvnj9fbxeA"
+    ],
+    "code transformation": [
+      "Fgvnj9fbxeA"
+    ],
+    "amazon-q-developer": [
+      "l-mjftGWueA"
+    ],
+    "dora-metrics": [
+      "l-mjftGWueA"
+    ],
+    "space-framework": [
+      "l-mjftGWueA"
+    ],
+    "cost-to-serve": [
+      "l-mjftGWueA"
+    ],
+    "jellyfish": [
+      "l-mjftGWueA"
+    ],
+    "developer-productivity": [
+      "l-mjftGWueA"
+    ],
+    "ai-impact-measurement": [
+      "l-mjftGWueA"
+    ],
+    "prompt-engineering": [
+      "l-mjftGWueA"
+    ],
+    "cloudformation": [
+      "_4hvWns9ICY",
+      "rm9gPOlUxNY"
+    ],
+    "drift-aware-changesets": [
+      "_4hvWns9ICY"
+    ],
+    "pre-deployment-validation": [
+      "_4hvWns9ICY"
+    ],
+    "cdk-refactor": [
+      "_4hvWns9ICY"
+    ],
+    "mixins": [
+      "_4hvWns9ICY"
+    ],
+    "hooks": [
+      "_4hvWns9ICY"
+    ],
+    "stack-sets": [
+      "_4hvWns9ICY"
+    ],
+    "mcp-server": [
+      "_4hvWns9ICY",
+      "rm9gPOlUxNY"
+    ],
+    "constructs": [
+      "_4hvWns9ICY"
+    ],
+    "kura-cli": [
+      "qB7AobjQqsU"
+    ],
+    "ai-native-development": [
+      "qB7AobjQqsU"
+    ],
+    "system-knowledge-plane": [
+      "qB7AobjQqsU"
+    ],
+    "aws-app-config": [
+      "rm9gPOlUxNY"
+    ],
+    "agent-sops": [
+      "rm9gPOlUxNY"
+    ],
+    "kira-ide": [
+      "rm9gPOlUxNY"
+    ],
+    "codepipeline": [
+      "rm9gPOlUxNY"
+    ],
+    "feature-flags": [
+      "rm9gPOlUxNY"
+    ],
+    "trunk-based-development": [
+      "rm9gPOlUxNY"
+    ],
+    "gradual-rollout": [
+      "rm9gPOlUxNY"
+    ],
+    "claude": [
+      "VRw3g-v4B00"
+    ],
+    "vs-code": [
+      "VRw3g-v4B00"
+    ],
+    "requirements-generation": [
+      "VRw3g-v4B00"
+    ]
+  },
+  "services": {
+    "amazon kira": [
+      "cltz3OXQtSE",
+      "Fer2DKJ2jNA"
+    ],
+    "aws cdk": [
+      "cltz3OXQtSE",
+      "S8G0qRuWweA",
+      "Kjrh4f1I6Ag",
+      "_4hvWns9ICY"
+    ],
+    "cloudformation": [
+      "cltz3OXQtSE",
+      "rm9gPOlUxNY"
+    ],
+    "aws transform custom": [
+      "MfaRnbg217g"
+    ],
+    "amazon q developer": [
+      "MfaRnbg217g",
+      "S8G0qRuWweA",
+      "LvvSs0qDmM8",
+      "1HNUH6j5t4A",
+      "Fgvnj9fbxeA",
+      "l-mjftGWueA"
+    ],
+    "aws batch": [
+      "MfaRnbg217g"
+    ],
+    "ec2": [
+      "MfaRnbg217g",
+      "50hKzkjRErE"
+    ],
+    "aws q developer": [
+      "jEJrOMU5nQU",
+      "Ap0tXXvyn3k"
+    ],
+    "terraform": [
+      "jEJrOMU5nQU"
+    ],
+    "dynamodb": [
+      "jEJrOMU5nQU",
+      "Kq0Se1nnT3U",
+      "bATt9ZtXSNw"
+    ],
+    "s3": [
+      "jEJrOMU5nQU",
+      "Kq0Se1nnT3U",
+      "LvvSs0qDmM8",
+      "bATt9ZtXSNw",
+      "rm9gPOlUxNY"
+    ],
+    "aws bedrock": [
+      "FAbm2MXYaqc",
+      "eLyFTbVtY64"
+    ],
+    "github": [
+      "FAbm2MXYaqc",
+      "s4sRgzNBlbU",
+      "l-mjftGWueA"
+    ],
+    "docker": [
+      "FAbm2MXYaqc"
+    ],
+    "aws kuro": [
+      "Ap0tXXvyn3k"
+    ],
+    "bedrock agent core": [
+      "Kq0Se1nnT3U",
+      "Fer2DKJ2jNA"
+    ],
+    "lambda": [
+      "Kq0Se1nnT3U",
+      "rm9gPOlUxNY"
+    ],
+    "kms": [
+      "Kq0Se1nnT3U"
+    ],
+    "amazon bedrock": [
+      "Fer2DKJ2jNA",
+      "XxAaidwyNNM",
+      "S8G0qRuWweA",
+      "LvvSs0qDmM8",
+      "Fgvnj9fbxeA"
+    ],
+    "amazon nova": [
+      "Fer2DKJ2jNA"
+    ],
+    "cloudwatch": [
+      "Fer2DKJ2jNA",
+      "bATt9ZtXSNw",
+      "_4hvWns9ICY",
+      "rm9gPOlUxNY"
+    ],
+    "aws codewhisperer": [
+      "XxAaidwyNNM",
+      "1HNUH6j5t4A",
+      "l-mjftGWueA",
+      "qB7AobjQqsU"
+    ],
+    "figma": [
+      "s4sRgzNBlbU"
+    ],
+    "aws-nova": [
+      "s4sRgzNBlbU"
+    ],
+    "slack": [
+      "s4sRgzNBlbU"
+    ],
+    "jira": [
+      "s4sRgzNBlbU",
+      "l-mjftGWueA"
+    ],
+    "amazon ecs": [
+      "S8G0qRuWweA"
+    ],
+    "aws lambda": [
+      "S8G0qRuWweA",
+      "Kjrh4f1I6Ag",
+      "l-mjftGWueA",
+      "_4hvWns9ICY"
+    ],
+    "aws transform for .net": [
+      "LvvSs0qDmM8"
+    ],
+    "kirao": [
+      "LvvSs0qDmM8"
+    ],
+    "code connections": [
+      "LvvSs0qDmM8"
+    ],
+    "aws amplify": [
+      "p0BLnE9CJcA",
+      "50hKzkjRErE",
+      "eLyFTbVtY64",
+      "Kjrh4f1I6Ag"
+    ],
+    "aws cognito": [
+      "p0BLnE9CJcA"
+    ],
+    "cloudfront": [
+      "50hKzkjRErE",
+      "Kjrh4f1I6Ag",
+      "rm9gPOlUxNY"
+    ],
+    "lambda@edge": [
+      "50hKzkjRErE"
+    ],
+    "github actions": [
+      "50hKzkjRErE"
+    ],
+    "ecs": [
+      "bATt9ZtXSNw"
+    ],
+    "x-ray": [
+      "bATt9ZtXSNw"
+    ],
+    "prometheus": [
+      "bATt9ZtXSNw"
+    ],
+    "sqs": [
+      "bATt9ZtXSNw"
+    ],
+    "efs": [
+      "bATt9ZtXSNw"
+    ],
+    "route53": [
+      "bATt9ZtXSNw"
+    ],
+    "clientvpn": [
+      "bATt9ZtXSNw"
+    ],
+    "cdk": [
+      "bATt9ZtXSNw",
+      "rm9gPOlUxNY"
+    ],
+    "codewhisperer": [
+      "eLyFTbVtY64"
+    ],
+    "kiro cli": [
+      "eLyFTbVtY64"
+    ],
+    "amazon cognito": [
+      "Kjrh4f1I6Ag"
+    ],
+    "amazon s3": [
+      "Kjrh4f1I6Ag",
+      "_4hvWns9ICY"
+    ],
+    "aws waf": [
+      "Kjrh4f1I6Ag"
+    ],
+    "amazon dynamodb": [
+      "Kjrh4f1I6Ag"
+    ],
+    "amazon q cli": [
+      "Fgvnj9fbxeA"
+    ],
+    "amazon q business": [
+      "Fgvnj9fbxeA"
+    ],
+    "aws sso": [
+      "l-mjftGWueA"
+    ],
+    "quicksight": [
+      "l-mjftGWueA"
+    ],
+    "aws cloudformation": [
+      "_4hvWns9ICY"
+    ],
+    "aws kms": [
+      "_4hvWns9ICY"
+    ],
+    "aws organizations": [
+      "_4hvWns9ICY"
+    ],
+    "aws controls catalog": [
+      "_4hvWns9ICY"
+    ],
+    "kura cli": [
+      "qB7AobjQqsU"
+    ],
+    "model context protocol": [
+      "qB7AobjQqsU"
+    ],
+    "aws app config": [
+      "rm9gPOlUxNY"
+    ],
+    "parameter store": [
+      "rm9gPOlUxNY"
+    ],
+    "codepipeline": [
+      "rm9gPOlUxNY"
+    ],
+    "codebuild": [
+      "rm9gPOlUxNY"
+    ],
+    "api gateway": [
+      "rm9gPOlUxNY"
+    ],
+    "aws kira": [
+      "VRw3g-v4B00"
+    ],
+    "q developer": [
+      "VRw3g-v4B00"
+    ]
+  }
+}

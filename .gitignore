@@ -1,5 +1,5 @@
 # Output
-output/
+output/cache.db
 *.db
 
 # Python
