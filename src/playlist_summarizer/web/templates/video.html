@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block title %}{{ video.title if video else 'Video' }} - Summary{% endblock %}
+
+{% block content %}
+<a href="/" class="back-link">&larr; Back to all videos</a>
+
+{% if video %}
+<div style="margin-bottom: 1rem;">
+    <a href="{{ video.url }}" target="_blank" style="color: var(--accent-green);">Watch on YouTube &rarr;</a>
+</div>
+{% endif %}
+
+<div class="content">
+    {{ content | safe }}
+</div>
+{% endblock %}

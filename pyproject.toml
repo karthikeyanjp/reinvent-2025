@@ -1,0 +1,27 @@
+[project]
+name = "playlist-summarizer"
+version = "0.1.0"
+description = "YouTube playlist summarizer with Claude AI"
+requires-python = ">=3.11"
+dependencies = [
+    "yt-dlp>=2024.12.0",
+    "youtube-transcript-api>=1.2.0",
+    "anthropic>=0.40.0",
+    "pydantic>=2.0",
+    "typer>=0.12.0",
+    "rich>=13.0",
+    "flask>=3.0",
+    "python-dotenv>=1.0",
+    "tenacity>=8.0",
+    "markdown>=3.5",
+]
+
+[project.scripts]
+playlist-summarizer = "playlist_summarizer.cli.commands:app"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/playlist_summarizer"]

@@ -1,0 +1,104 @@
+{% extends "base.html" %}
+
+{% block title %}Video Summaries - Platform Engineering{% endblock %}
+
+{% block content %}
+<div class="header">
+    <h1>Video Summaries</h1>
+    <input type="text" class="search-box" id="search" placeholder="Search tags, keywords, titles...">
+</div>
+
+<div class="tags" id="tags">
+    {% for tag in tags %}
+    <span class="tag" data-tag="{{ tag }}">{{ tag }}</span>
+    {% endfor %}
+</div>
+
+<div class="video-grid" id="results">
+    {% for video in videos %}
+    <div class="video-card">
+        <div class="video-title">
+            <a href="/video/{{ video.video_id }}">{{ video.title }}</a>
+        </div>
+        <div class="video-meta">
+            {{ video.channel }} |
+            <span class="relevance">{{ video.relevance }}/10</span>
+            {{ video.difficulty }}
+        </div>
+        <div class="video-tags">
+            {% for tag in video.tags[:5] %}
+            <span class="video-tag">{{ tag }}</span>
+            {% endfor %}
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+<div class="no-results" id="no-results" style="display: none;">
+    No videos found matching your search.
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+const searchBox = document.getElementById('search');
+const resultsEl = document.getElementById('results');
+const noResultsEl = document.getElementById('no-results');
+const tags = document.querySelectorAll('.tag');
+
+let debounceTimer;
+
+searchBox.addEventListener('input', (e) => {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(() => {
+        const query = e.target.value.trim();
+        if (query.length < 2) {
+            location.reload();
+            return;
+        }
+        search(query);
+    }, 300);
+});
+
+tags.forEach(tag => {
+    tag.addEventListener('click', () => {
+        const tagName = tag.dataset.tag;
+        searchBox.value = tagName;
+        search(tagName);
+        tags.forEach(t => t.classList.remove('active'));
+        tag.classList.add('active');
+    });
+});
+
+async function search(query) {
+    const res = await fetch(`/api/search?q=${encodeURIComponent(query)}`);
+    const videos = await res.json();
+    renderVideos(videos);
+}
+
+function renderVideos(videos) {
+    if (videos.length === 0) {
+        resultsEl.innerHTML = '';
+        noResultsEl.style.display = 'block';
+        return;
+    }
+
+    noResultsEl.style.display = 'none';
+    resultsEl.innerHTML = videos.map(v => `
+        <div class="video-card">
+            <div class="video-title">
+                <a href="/video/${v.video_id}">${v.title}</a>
+            </div>
+            <div class="video-meta">
+                ${v.channel || 'Unknown'} |
+                <span class="relevance">${v.relevance}/10</span>
+                ${v.difficulty || 'intermediate'}
+            </div>
+            <div class="video-tags">
+                ${(v.tags || []).slice(0, 5).map(t => `<span class="video-tag">${t}</span>`).join('')}
+            </div>
+        </div>
+    `).join('');
+}
+</script>
+{% endblock %}

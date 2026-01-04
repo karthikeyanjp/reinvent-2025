@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Playlist Summarizer{% endblock %}</title>
+    <style>
+        :root {
+            --bg: #0d1117;
+            --bg-secondary: #161b22;
+            --text: #c9d1d9;
+            --text-muted: #8b949e;
+            --accent: #58a6ff;
+            --accent-green: #3fb950;
+            --border: #30363d;
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.6;
+            padding: 2rem;
+        }
+        .container { max-width: 1200px; margin: 0 auto; }
+        a { color: var(--accent); text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        h1, h2, h3 { margin-bottom: 1rem; }
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 2rem;
+            padding-bottom: 1rem;
+            border-bottom: 1px solid var(--border);
+        }
+        .search-box {
+            padding: 0.75rem 1rem;
+            width: 300px;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            color: var(--text);
+            font-size: 1rem;
+        }
+        .search-box:focus { outline: none; border-color: var(--accent); }
+        .tags { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 2rem; }
+        .tag {
+            background: var(--bg-secondary);
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            cursor: pointer;
+            border: 1px solid var(--border);
+            transition: all 0.2s;
+        }
+        .tag:hover { border-color: var(--accent); color: var(--accent); }
+        .tag.active { background: var(--accent); color: var(--bg); border-color: var(--accent); }
+        .video-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 1.5rem;
+        }
+        .video-card {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 1.25rem;
+            transition: border-color 0.2s;
+        }
+        .video-card:hover { border-color: var(--accent); }
+        .video-title { font-size: 1.1rem; margin-bottom: 0.5rem; }
+        .video-meta { color: var(--text-muted); font-size: 0.85rem; margin-bottom: 0.75rem; }
+        .video-tags { display: flex; flex-wrap: wrap; gap: 0.35rem; }
+        .video-tag {
+            background: var(--bg);
+            padding: 0.15rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+        }
+        .relevance {
+            background: var(--accent-green);
+            color: var(--bg);
+            padding: 0.15rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+        .content { background: var(--bg-secondary); padding: 2rem; border-radius: 8px; }
+        .content h1 { color: var(--accent); }
+        .content h2 { color: var(--text); margin-top: 1.5rem; border-bottom: 1px solid var(--border); padding-bottom: 0.5rem; }
+        .content ul { margin-left: 1.5rem; }
+        .content li { margin-bottom: 0.5rem; }
+        .content code { background: var(--bg); padding: 0.2rem 0.4rem; border-radius: 4px; font-size: 0.9rem; }
+        .back-link { margin-bottom: 1rem; display: inline-block; }
+        .no-results { text-align: center; padding: 3rem; color: var(--text-muted); }
+    </style>
+</head>
+<body>
+    <div class="container">
+        {% block content %}{% endblock %}
+    </div>
+    {% block scripts %}{% endblock %}
+</body>
+</html>
