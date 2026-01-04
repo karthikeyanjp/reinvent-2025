@@ -1,6 +1,6 @@
 # AWS re:Invent 2025 - Measuring AI Impact with Amazon Q Developer and Jellyfish (DVT219)
 
-**URL**: [https://www.youtube.com/watch?v=l-mjftGWueA](https://www.youtube.com/watch?v=l-mjftGWueA)
+[![Video Thumbnail](https://img.youtube.com/vi/l-mjftGWueA/maxresdefault.jpg)](https://www.youtube.com/watch?v=l-mjftGWueA)
 **Channel**: AWS Events
 **Difficulty**: intermediate
 **Platform Eng Relevance**: 9/10

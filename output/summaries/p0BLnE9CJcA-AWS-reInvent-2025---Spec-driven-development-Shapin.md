@@ -1,6 +1,6 @@
 # AWS re:Invent 2025 - Spec-driven development: Shaping the next generation of AI software (DVT212)
 
-**URL**: [https://www.youtube.com/watch?v=p0BLnE9CJcA](https://www.youtube.com/watch?v=p0BLnE9CJcA)
+[![Video Thumbnail](https://img.youtube.com/vi/p0BLnE9CJcA/maxresdefault.jpg)](https://www.youtube.com/watch?v=p0BLnE9CJcA)
 **Channel**: AWS Events
 **Difficulty**: intermediate
 **Platform Eng Relevance**: 7/10

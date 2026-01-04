@@ -1,6 +1,6 @@
 # AWS re:Invent 2025 - Kiro: Your agentic IDE for spec-driven development (DVT209)
 
-**URL**: [https://www.youtube.com/watch?v=S8G0qRuWweA](https://www.youtube.com/watch?v=S8G0qRuWweA)
+[![Video Thumbnail](https://img.youtube.com/vi/S8G0qRuWweA/maxresdefault.jpg)](https://www.youtube.com/watch?v=S8G0qRuWweA)
 **Channel**: AWS Events
 **Difficulty**: intermediate
 **Platform Eng Relevance**: 7/10

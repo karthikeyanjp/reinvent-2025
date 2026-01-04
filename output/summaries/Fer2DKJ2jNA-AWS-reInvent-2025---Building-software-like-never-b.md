@@ -1,6 +1,6 @@
 # AWS re:Invent 2025 - Building software like never before with Agentic AI (DVT220)
 
-**URL**: ![https://www.youtube.com/watch?v=Fer2DKJ2jNA](https://www.youtube.com/watch?v=Fer2DKJ2jNA)
+[![Video Thumbnail](https://img.youtube.com/vi/Fer2DKJ2jNA/maxresdefault.jpg)](https://www.youtube.com/watch?v=Fer2DKJ2jNA)
 **Channel**: AWS Events
 **Difficulty**: intermediate
 **Platform Eng Relevance**: 7/10

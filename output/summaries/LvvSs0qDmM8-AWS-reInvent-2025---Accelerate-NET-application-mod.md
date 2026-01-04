@@ -1,6 +1,6 @@
 # AWS re:Invent 2025 - Accelerate .NET application modernization with generative AI (DVT211)
 
-**URL**: ![https://www.youtube.com/watch?v=LvvSs0qDmM8](https://www.youtube.com/watch?v=LvvSs0qDmM8)
+[![Video Thumbnail](https://img.youtube.com/vi/LvvSs0qDmM8/maxresdefault.jpg)](https://www.youtube.com/watch?v=LvvSs0qDmM8)
 **Channel**: AWS Events
 **Difficulty**: intermediate
 **Platform Eng Relevance**: 9/10

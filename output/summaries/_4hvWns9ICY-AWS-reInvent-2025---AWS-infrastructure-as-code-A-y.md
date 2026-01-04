@@ -1,6 +1,6 @@
 # AWS re:Invent 2025 - AWS infrastructure as code: A year in review (DVT203)
 
-**URL**: ![https://www.youtube.com/watch?v=_4hvWns9ICY](https://www.youtube.com/watch?v=_4hvWns9ICY)
+[![Video Thumbnail](https://img.youtube.com/vi/_4hvWns9ICY/maxresdefault.jpg)](https://www.youtube.com/watch?v=_4hvWns9ICY)
 **Channel**: AWS Events
 **Difficulty**: intermediate
 **Platform Eng Relevance**: 9/10

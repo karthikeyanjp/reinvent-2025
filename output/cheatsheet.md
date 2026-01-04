@@ -4,97 +4,94 @@
 
 ## Stats That Impress
 
-- **90% cost reduction from $180k to $20k annually**: Priority Pass achieved this migrating to AWS Amplify
-  - *Use when: When discussing frontend hosting costs*
+- **90% cost reduction with 100M+ visitors**: Priority Pass cut hosting costs from $180k to $20k using AWS Amplify
+  - *Use when: When discussing cloud cost optimization*
 
-- **85% efficiency gains across 800+ developers**: Rackspace's results using Amazon Kiro
-  - *Use when: When talking about AI development tools*
-
-- **948% growth in Q Developer adoption in 6 months**: Delta Airlines using dev champions model
-  - *Use when: When discussing AI tool rollout strategies*
-
-- **60% faster Java upgrades across 40+ services**: ADP achieved this using AWS Transform Custom
+- **60% faster Java upgrades across 40+ services**: ADP achieved this using AWS Transform Custom for 600k lines of code
   - *Use when: When discussing legacy modernization*
 
-- **90% time savings in Terraform provider development**: HashiCorp reduced 40-hour tasks to 4 hours with AI agents
-  - *Use when: When talking about infrastructure automation*
+- **85% efficiency gains across 800+ developers**: Rackspace using Amazon Kira with phased rollout strategy
+  - *Use when: When discussing AI development tool adoption*
 
-- **15.9% business value improvement year-over-year**: Amazon's Cost to Serve Software framework results
-  - *Use when: When measuring developer experience ROI*
+- **948% growth in Q Developer adoption in 6 months**: Delta Airlines using 'dev champions' model for trust-based rollout
+  - *Use when: When discussing enterprise AI tool scaling*
+
+- **90% time savings in Terraform provider development**: HashiCorp reduced 40-hour tasks to 4 hours using AWS Q Developer agents
+  - *Use when: When discussing infrastructure automation*
+
+- **15.9% business value improvement year-over-year**: Amazon's 'Cost to Serve Software' framework measuring developer experience ROI
+  - *Use when: When discussing developer productivity metrics*
 
 ## Concepts to Know
 
-- **MCP (Model Context Protocol)**: USB standard for AI tool integration - lets AI agents talk to any tool
-  - *Why it matters: Becoming industry standard, backed by Anthropic*
+- **MCP (Model Context Protocol)**: Like USB for AI agents - standard protocol for tool integration
+  - *Why it matters: Becoming the industry standard, eliminates M*N integration problem*
 
-- **Spec-driven development**: AI creates requirements, design, and tasks before coding
-  - *Why it matters: Eliminates 'prompt and pray' - structures AI development*
+- **Spec-driven development**: Generate requirements, design, and tasks before writing code
+  - *Why it matters: Replaces 'prompt and pray' with structured AI workflows*
 
-- **AI-DLC (AI-Driven Development Lifecycle)**: Collaborative mob programming with AI throughout SDLC
-  - *Why it matters: Achieves 5-10x productivity gains vs sequential handoffs*
+- **AI-Driven Development Lifecycle (AIDLC)**: AI agents handle entire development process, not just coding
+  - *Why it matters: Amazon's framework for 5-10x productivity gains*
 
-- **Steering files**: Version-controlled context files that teach AI your team's standards
-  - *Why it matters: Transforms AI output from inconsistent to enterprise-grade*
+- **Kiro Powers**: Pre-packaged AI agent configurations with tools and context
+  - *Why it matters: Solves context overload problem in AI development*
 
-- **Kiro Powers**: Pre-packaged AI agent capabilities for specific tech stacks
-  - *Why it matters: Solves context overload - agents get expertise when needed*
+- **Steering files**: Version-controlled documents that give AI agents domain knowledge
+  - *Why it matters: Transform AI from generic to organization-specific coding*
 
-- **Cost to Serve Software**: Total dev costs divided by delivery units (deployments/PRs)
-  - *Why it matters: Amazon's framework for measuring developer experience ROI*
+- **Context engineering**: Art of managing what information AI agents see and when
+  - *Why it matters: More critical than prompt engineering for production AI*
 
 ## Hot Takes
 
-- Traditional SDLC metrics like lines of code are dead
-  - *Evidence: Amazon measures team-level delivery units, not individual productivity*
+- Traditional SDLC metrics like lines of code are officially dead
+  - *Evidence: Amazon now measures 'Cost to Serve Software' - total costs divided by delivery units*
 
-- RAG is fundamentally limited for AI agents
-  - *Evidence: Can't request different info or follow dependencies - MCP solves this*
+- RAG is fundamentally limited for AI development
+  - *Evidence: Can't request different info or follow dependencies - MCP is the replacement*
 
-- X-Ray daemon is deprecated in favor of OpenTelemetry
-  - *Evidence: AWS officially announced OTEL as strategic choice*
+- Individual developer productivity metrics are pointless
+  - *Evidence: Software development is team endeavor - individual velocity returns to team mean*
 
-- Context engineering beats prompt engineering
-  - *Evidence: Less context is more effective than throwing raw data at LLMs*
+- AI code generation is moving from 10% to 90% production-ready
+  - *Evidence: AWS constraining AI choices to proven patterns instead of generating from scratch*
 
-- Individual developer metrics are meaningless
-  - *Evidence: Velocity returns to team mean - focus on team-level improvements*
+- X-Ray daemon is being deprecated in favor of OpenTelemetry
+  - *Evidence: AWS announced ADOT as strategic choice for vendor-independent observability*
 
 ## Products to Name-Drop
 
-- **Kiro**: AWS's new agentic IDE with spec-driven development
-  - *Notable: First IDE built for AI-first development workflow*
+- **Amazon Kiro**: First agentic IDE built for spec-driven development
+  - *Notable: Just went GA, replaces traditional coding with AI-orchestrated workflows*
 
 - **AWS Transform Custom**: CLI-based autonomous agent for custom code transformations
-  - *Notable: Released this week - handles any language/framework*
+  - *Notable: Released this week, handles any language/framework modernization*
 
-- **Bedrock Agent Core**: Modular services for building production AI agents
-  - *Notable: Serverless agent runtime with built-in security*
+- **Bedrock Agent Core**: Modular services for deploying production-scale AI agents
+  - *Notable: Framework-agnostic platform for custom agent deployment*
 
-- **AWS MCP Server**: 30+ SOPs for guiding AI toward AWS best practices
-  - *Notable: Bridges gap between AI tools and cloud services*
+- **AWS Amplify Gen 2**: Full-stack framework with deep CDK integration
+  - *Notable: Battle-tested components eliminate custom auth/storage implementations*
 
-- **Amplify Gen 2**: CDK-integrated fullstack framework with battle-tested components
-  - *Notable: Reduces complex features to single-line implementations*
+- **AWS MCP Server**: Provides 30+ SOPs for guiding AI toward AWS best practices
+  - *Notable: Bridges gap between AI tools and production-ready AWS configurations*
 
 ## Surprising Facts
 
-- Mob programming with AI is replacing code reviews
-  - *Called 'mob elaboration' - whole team + AI designs together*
+- Mob programming is replacing code reviews in AI development
+  - *Called 'mob elaboration' - whole team + AI designs together in real-time*
 
-- Only 25% of AI-generated code makes it to production
-  - *Most developers generate massive amounts but ship very little*
+- AI agents can now automatically toggle logging levels based on security threats
+  - *CloudWatch alarms trigger feature flags to switch from info to debug logging*
 
-- Agent hooks automate documentation updates on file saves
-  - *Eliminates manual maintenance that typically gets deferred*
+- Ephemeral environments spin up in 6 minutes per git branch
+  - *Priority Pass gets isolated testing URLs automatically for every branch*
 
-- AI agents need sandbox environments to safely run thousands concurrently
-  - *Code execution infrastructure becomes critical bottleneck*
+- AWS is deprecating X-Ray daemon for OpenTelemetry
+  - *ADOT sidecars becoming the standard for vendor-independent observability*
 
-- Fixed workflows with 4 LLM calls beat complex agent architectures
-  - *10x performance improvement over basic retrieval approaches*
+- Thompson Reuters uses central teams to operate AI transformation tools
+  - *Product teams focus on features while modernization happens in parallel*
 
-- Feature flags can auto-toggle logging levels based on CloudWatch alarms
-  - *Operational flags respond to production anomalies in seconds*
-
-- Ephemeral environments generate automatically per git branch in 6 minutes
-  - *Amplify creates isolated URLs for every branch*
+- Context management beats raw data volume for AI effectiveness
+  - *Less context is more - explicit instructions prevent hallucination*

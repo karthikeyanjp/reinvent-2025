@@ -1,6 +1,6 @@
 # AWS re:Invent 2025 - Generative AI, agents, MCP, and the future of AI-powered software development
 
-**URL**: ![https://www.youtube.com/watch?v=Kq0Se1nnT3U](https://www.youtube.com/watch?v=Kq0Se1nnT3U)
+[![Video Thumbnail](https://img.youtube.com/vi/Kq0Se1nnT3U/maxresdefault.jpg)](https://www.youtube.com/watch?v=Kq0Se1nnT3U)
 **Channel**: AWS Events
 **Difficulty**: intermediate
 **Platform Eng Relevance**: 9/10

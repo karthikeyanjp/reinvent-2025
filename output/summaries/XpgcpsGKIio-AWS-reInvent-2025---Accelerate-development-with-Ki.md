@@ -1,6 +1,6 @@
 # AWS re:Invent 2025 - Accelerate development with Kiro's new agentic AI capabilities (DVT228)
 
-**URL**: ![https://www.youtube.com/watch?v=XpgcpsGKIio](https://www.youtube.com/watch?v=XpgcpsGKIio)
+[![Video Thumbnail](https://img.youtube.com/vi/XpgcpsGKIio/maxresdefault.jpg)](https://www.youtube.com/watch?v=XpgcpsGKIio)
 **Channel**: AWS Events
 **Difficulty**: intermediate
 **Platform Eng Relevance**: 7/10

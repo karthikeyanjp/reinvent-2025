@@ -1,6 +1,6 @@
 # AWS re:Invent 2025 - Modernizing Java applications with generative AI (DVT210)
 
-**URL**: ![https://www.youtube.com/watch?v=MfaRnbg217g](https://www.youtube.com/watch?v=MfaRnbg217g)
+[![Video Thumbnail](https://img.youtube.com/vi/MfaRnbg217g/maxresdefault.jpg)](https://www.youtube.com/watch?v=MfaRnbg217g)
 **Channel**: AWS Events
 **Difficulty**: intermediate
 **Platform Eng Relevance**: 9/10

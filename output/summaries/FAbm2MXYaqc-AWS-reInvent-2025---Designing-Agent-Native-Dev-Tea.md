@@ -1,6 +1,6 @@
 # AWS re:Invent 2025 - Designing Agent-Native Dev Teams: Coding Agents in Real Workflows (DVT226)
 
-**URL**: ![https://www.youtube.com/watch?v=FAbm2MXYaqc](https://www.youtube.com/watch?v=FAbm2MXYaqc)
+[![Video Thumbnail](https://img.youtube.com/vi/FAbm2MXYaqc/maxresdefault.jpg)](https://www.youtube.com/watch?v=FAbm2MXYaqc)
 **Channel**: AWS Events
 **Difficulty**: intermediate
 **Platform Eng Relevance**: 7/10

@@ -1,6 +1,6 @@
 # AWS re:Invent 2025 - Crowning the Kiro code champions (DVT221)
 
-**URL**: ![https://www.youtube.com/watch?v=cltz3OXQtSE](https://www.youtube.com/watch?v=cltz3OXQtSE)
+[![Video Thumbnail](https://img.youtube.com/vi/cltz3OXQtSE/maxresdefault.jpg)](https://www.youtube.com/watch?v=cltz3OXQtSE)
 **Channel**: AWS Events
 **Difficulty**: intermediate
 **Platform Eng Relevance**: 7/10

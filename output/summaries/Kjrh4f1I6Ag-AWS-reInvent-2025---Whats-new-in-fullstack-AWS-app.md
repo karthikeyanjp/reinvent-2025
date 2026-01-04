@@ -1,6 +1,6 @@
 # AWS re:Invent 2025 - What’s new in fullstack AWS app development (DVT204)
 
-**URL**: [https://www.youtube.com/watch?v=Kjrh4f1I6Ag](https://www.youtube.com/watch?v=Kjrh4f1I6Ag)
+[![Video Thumbnail](https://img.youtube.com/vi/Kjrh4f1I6Ag/maxresdefault.jpg)](https://www.youtube.com/watch?v=Kjrh4f1I6Ag)
 **Channel**: AWS Events
 **Difficulty**: intermediate
 **Platform Eng Relevance**: 9/10

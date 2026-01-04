@@ -1,6 +1,6 @@
 # AWS re:Invent 2025 - Developer Experience Economics: Moving Past Productivity Metrics (DVT207)
 
-**URL**: [https://www.youtube.com/watch?v=Fgvnj9fbxeA](https://www.youtube.com/watch?v=Fgvnj9fbxeA)
+[![Video Thumbnail](https://img.youtube.com/vi/Fgvnj9fbxeA/maxresdefault.jpg)](https://www.youtube.com/watch?v=Fgvnj9fbxeA)
 **Channel**: AWS Events
 **Difficulty**: advanced
 **Platform Eng Relevance**: 9/10

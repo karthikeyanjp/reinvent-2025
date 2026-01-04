@@ -1,6 +1,6 @@
 # AWS re:Invent 2025 - Extend Kiro with MCP support for richer context (DVT213)
 
-**URL**: ![https://www.youtube.com/watch?v=s4sRgzNBlbU](https://www.youtube.com/watch?v=s4sRgzNBlbU)
+[![Video Thumbnail](https://img.youtube.com/vi/s4sRgzNBlbU/maxresdefault.jpg)](https://www.youtube.com/watch?v=s4sRgzNBlbU)
 **Channel**: AWS Events
 **Difficulty**: intermediate
 **Platform Eng Relevance**: 7/10

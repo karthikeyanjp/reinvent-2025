@@ -1,6 +1,6 @@
 # AWS re:Invent 2025 - Continuous integration and continuous delivery (CI/CD) for AWS (DVT202)
 
-**URL**: [https://www.youtube.com/watch?v=rm9gPOlUxNY](https://www.youtube.com/watch?v=rm9gPOlUxNY)
+[![Video Thumbnail](https://img.youtube.com/vi/rm9gPOlUxNY/maxresdefault.jpg)](https://www.youtube.com/watch?v=rm9gPOlUxNY)
 **Channel**: AWS Events
 **Difficulty**: intermediate
 **Platform Eng Relevance**: 9/10

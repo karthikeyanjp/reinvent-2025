@@ -1,6 +1,6 @@
 # AWS re:Invent 2025 - Accelerate multi-step SDLC with Kiro (DVT321)
 
-**URL**: [https://www.youtube.com/watch?v=eLyFTbVtY64](https://www.youtube.com/watch?v=eLyFTbVtY64)
+[![Video Thumbnail](https://img.youtube.com/vi/eLyFTbVtY64/maxresdefault.jpg)](https://www.youtube.com/watch?v=eLyFTbVtY64)
 **Channel**: AWS Events
 **Difficulty**: intermediate
 **Platform Eng Relevance**: 7/10

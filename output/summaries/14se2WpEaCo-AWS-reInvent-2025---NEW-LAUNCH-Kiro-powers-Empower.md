@@ -1,6 +1,6 @@
 # AWS re:Invent 2025 - [NEW LAUNCH] Kiro powers: Empower agents with specialized expertise (DVT343)
 
-**URL**: ![https://www.youtube.com/watch?v=14se2WpEaCo](https://www.youtube.com/watch?v=14se2WpEaCo)
+[![Video Thumbnail](https://img.youtube.com/vi/14se2WpEaCo/maxresdefault.jpg)](https://www.youtube.com/watch?v=14se2WpEaCo)
 **Channel**: AWS Events
 **Difficulty**: intermediate
 **Platform Eng Relevance**: 7/10

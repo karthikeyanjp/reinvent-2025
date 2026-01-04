@@ -1,6 +1,6 @@
 # AWS re:Invent 2025 - From concept to production: Build with spec-driven development & Kiro  (DVT320)
 
-**URL**: [https://www.youtube.com/watch?v=VRw3g-v4B00](https://www.youtube.com/watch?v=VRw3g-v4B00)
+[![Video Thumbnail](https://img.youtube.com/vi/VRw3g-v4B00/maxresdefault.jpg)](https://www.youtube.com/watch?v=VRw3g-v4B00)
 **Channel**: AWS Events
 **Difficulty**: intermediate
 **Platform Eng Relevance**: 7/10

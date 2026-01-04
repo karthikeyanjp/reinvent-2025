@@ -1,6 +1,6 @@
 # AWS re:Invent 2025 - Accelerate Terraform Provider development workflows with Kiro (DVT216)
 
-**URL**: ![https://www.youtube.com/watch?v=jEJrOMU5nQU](https://www.youtube.com/watch?v=jEJrOMU5nQU)
+[![Video Thumbnail](https://img.youtube.com/vi/jEJrOMU5nQU/maxresdefault.jpg)](https://www.youtube.com/watch?v=jEJrOMU5nQU)
 **Channel**: AWS Events
 **Difficulty**: intermediate
 **Platform Eng Relevance**: 9/10

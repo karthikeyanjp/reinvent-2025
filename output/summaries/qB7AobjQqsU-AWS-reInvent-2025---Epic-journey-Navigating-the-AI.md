@@ -1,6 +1,6 @@
 # AWS re:Invent 2025 - Epic journey: Navigating the AI-powered SDLC from backlog to production(DVT208)
 
-**URL**: [https://www.youtube.com/watch?v=qB7AobjQqsU](https://www.youtube.com/watch?v=qB7AobjQqsU)
+[![Video Thumbnail](https://img.youtube.com/vi/qB7AobjQqsU/maxresdefault.jpg)](https://www.youtube.com/watch?v=qB7AobjQqsU)
 **Channel**: AWS Events
 **Difficulty**: intermediate
 **Platform Eng Relevance**: 9/10

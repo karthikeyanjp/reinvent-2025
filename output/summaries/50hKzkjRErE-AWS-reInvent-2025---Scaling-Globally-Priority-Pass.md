@@ -1,6 +1,6 @@
 # AWS re:Invent 2025 - Scaling Globally: Priority Pass's Journey with AWS Amplify (DVT319)
 
-**URL**: [https://www.youtube.com/watch?v=50hKzkjRErE](https://www.youtube.com/watch?v=50hKzkjRErE)
+[![Video Thumbnail](https://img.youtube.com/vi/50hKzkjRErE/maxresdefault.jpg)](https://www.youtube.com/watch?v=50hKzkjRErE)
 **Channel**: AWS Events
 **Difficulty**: intermediate
 **Platform Eng Relevance**: 7/10

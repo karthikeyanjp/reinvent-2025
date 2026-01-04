@@ -1,6 +1,6 @@
 # AWS re:Invent 2025-Unlock the power of Kiro steering: Your blueprint for scalable development-DVT340
 
-**URL**: ![https://www.youtube.com/watch?v=Ap0tXXvyn3k](https://www.youtube.com/watch?v=Ap0tXXvyn3k)
+[![Video Thumbnail](https://img.youtube.com/vi/Ap0tXXvyn3k/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ap0tXXvyn3k)
 **Channel**: AWS Events
 **Difficulty**: intermediate
 **Platform Eng Relevance**: 7/10

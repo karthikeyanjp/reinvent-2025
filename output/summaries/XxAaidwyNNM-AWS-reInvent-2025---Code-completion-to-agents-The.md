@@ -1,6 +1,6 @@
 # AWS re:Invent 2025 - Code completion to agents: The evolution of development (DVT405)
 
-**URL**: ![https://www.youtube.com/watch?v=XxAaidwyNNM](https://www.youtube.com/watch?v=XxAaidwyNNM)
+[![Video Thumbnail](https://img.youtube.com/vi/XxAaidwyNNM/maxresdefault.jpg)](https://www.youtube.com/watch?v=XxAaidwyNNM)
 **Channel**: AWS Events
 **Difficulty**: advanced
 **Platform Eng Relevance**: 7/10

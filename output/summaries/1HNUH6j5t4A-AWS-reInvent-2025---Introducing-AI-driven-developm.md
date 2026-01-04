@@ -1,6 +1,6 @@
 # AWS re:Invent 2025 - Introducing AI driven development lifecycle (AI-DLC) (DVT214)
 
-**URL**: [https://www.youtube.com/watch?v=1HNUH6j5t4A](https://www.youtube.com/watch?v=1HNUH6j5t4A)
+[![Video Thumbnail](https://img.youtube.com/vi/1HNUH6j5t4A/maxresdefault.jpg)](https://www.youtube.com/watch?v=1HNUH6j5t4A)
 **Channel**: AWS Events
 **Difficulty**: intermediate
 **Platform Eng Relevance**: 9/10

@@ -1,6 +1,6 @@
 # AWS re:Invent 2025 - Secure Amazon ECS observability with CDK and Grafana (DEV338)
 
-**URL**: [https://www.youtube.com/watch?v=bATt9ZtXSNw](https://www.youtube.com/watch?v=bATt9ZtXSNw)
+[![Video Thumbnail](https://img.youtube.com/vi/bATt9ZtXSNw/maxresdefault.jpg)](https://www.youtube.com/watch?v=bATt9ZtXSNw)
 **Channel**: AWS Events
 **Difficulty**: intermediate
 **Platform Eng Relevance**: 9/10
